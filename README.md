@@ -17,8 +17,7 @@ artinya penyimpanan database Git tidak hanya berada dalam satu
 tempat saja.
 
 # Instalasi Git
-• Download Git, buka website resminya :
-![Git Link](https://git-scm.com)
+• Download Git, buka website resminya : [Git Link](https://git-scm.com)
 <br>
 <br>
 ![Git Link](pictures/gitweb.png)<br>
@@ -29,9 +28,12 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 ![Git Version](pictures/gitversion.png)
 
 # Menambahkan Global Config
-• Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi *user.name dan user.email*<br>
-• konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository. <br>
-• apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit<br>
+• Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi *user.name dan user.email*
+<br>
+• Konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
+<br>
+• Apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
+<br>
 • Config Global Repository<br>
 ***$ git config --global user.name “nama_user”***<br>
 ***$ git config --global user.email “nama_user”***<br>
