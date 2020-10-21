@@ -17,11 +17,11 @@ artinya penyimpanan database Git tidak hanya berada dalam satu
 tempat saja.
 
 # Instalasi Git
-• Download Git, buka website resminya Git (git-scm.com).
+• Download Git, buka website resminya Git (git-scm.com).<br>
 • Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau
 menggunakan 64bit, unduh yang 64bit. Begitu juga kalau
-menggunakan 32bit.
+menggunakan 32bit.<br>
 • Selamat, Git sudah terinstal di Windows. Untuk mencobanya,
-silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
-**git --version** <br>
+silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br> <br>
+## **git --version** <br>
 ![Git Version](pictures/gitversion.png)
