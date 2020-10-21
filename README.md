@@ -33,6 +33,6 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository. <br>
 • apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit<br>
 • Config Global Repository<br>
-*$ git config --global user.name “nama_user”*
-*$ git config --global user.email “nama_user”*<br>
+***$ git config --global user.name “nama_user”***<br>
+***$ git config --global user.email “nama_user”***<br>
 ![Git Version](pictures/globalconfig.png)
