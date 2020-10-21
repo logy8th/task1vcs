@@ -49,8 +49,7 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • **git pull**, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
 # Membuat Reposiory Local
-• Buka direktory aktif, misal: C:\Users\Fall\Desktop\gittask1 (buka menggunakan Windows Explorer)
-• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash commad
-• Buat direktory project praktikum pertama dengan nama gittask1
-• Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya
-masuk kedalam direktori tersebut dengan perintah cd (change directory) direktory aktif menjadi: d:\labs_pemrograman1\latihan1
+• Buka direktory aktif, misal: C:\Users\Fall\Desktop\gittask1 (buka menggunakan Windows Explorer)<br>
+• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command.<br>
+• Buat direktory project praktikum pertama dengan nama gittask1.<br>
+• Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory) direktory aktif menjadi: C:\Users\Fall\Desktop\gittask1
