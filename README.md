@@ -22,6 +22,6 @@ tempat saja.
 menggunakan 64bit, unduh yang 64bit. Begitu juga kalau
 menggunakan 32bit.<br>
 • Selamat, Git sudah terinstal di Windows. Untuk mencobanya,
-silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br> <br>
-## **git --version** <br>
+silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
+***git --version*** <br>
 ![Git Version](pictures/gitversion.png)
