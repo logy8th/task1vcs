@@ -39,7 +39,7 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 ***--> git config --global user.email “nama_user”***<br>
 ![Git Version](pictures/globalconfig.png)
 
-# Perintah Dasar Git<br>
+# Perintah Dasar Git
 • **git init**, perintah untuk membuat repository local<br>
 • **git add**, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.<br>
 • **git commit**, perintah untuk menyimpan perubahan kedalam database git. <br>
@@ -47,3 +47,10 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • **git clone [url]**, perintah untuk membuat working directory yang diambil dari repositry sever.<br>
 • **git remote add origin [url]**, perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)<br>
 • **git pull**, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
+# Membuat Reposiory Local
+• Buka direktory aktif, misal: C:\Users\Fall\Desktop\gittask1 (buka menggunakan Windows Explorer)
+• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash commad
+• Buat direktory project praktikum pertama dengan nama gittask1
+• Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya
+masuk kedalam direktori tersebut dengan perintah cd (change directory) direktory aktif menjadi: d:\labs_pemrograman1\latihan1
