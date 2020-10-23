@@ -72,8 +72,9 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 
 # Menambahkan File baru pada repository
 <br>
-• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)<br>
-**$ echo “# Latihan 1” >> CUMATEXT.md**<br>
+• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+
+**$ echo “# Latihan 1” >> CUMATEXT.md**
 <br>
 • Disini kita akan coba buat satu file bernama CUMATEXT.md (text file)<br>
 <br>
