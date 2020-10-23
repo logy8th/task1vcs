@@ -84,5 +84,6 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah **git add**<br>
 <br>
 ![Git Version](pictures/gittambah.png)<br>
-<br>
+• Jangan lupa untuk melakukan commit dan push ke remote origin anda.
+
 ***Maka file README.md berhasil ditambahkan kedalam repository anda!***
