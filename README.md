@@ -34,9 +34,9 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 <br>
 • Apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 <br>
-• Config Global Repository<br>
-***--> git config --global user.name “nama_user”***<br>
-***--> git config --global user.email “nama_user”***<br>
+• Config Global Repository <br>
+***--> git config --global user.name “nama_user”*** <br>
+***--> git config --global user.email “nama_user”*** <br>
 ![Git Version](pictures/globalconfig.png)
 
 # Perintah Dasar Git
@@ -44,32 +44,45 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • **git add**, Perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.<br>
 • **git commit**, Perintah untuk menyimpan perubahan kedalam database git. <br>
 • **git push -u origin master**, Perintah untuk mengirim perubahan pada repository local menuju server repository.<br>
-• **git clone [url]**, Perintah untuk membuat working directory yang diambil dari repositry sever.<br>
-• **git remote add origin [url]**, Perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)<br>
+• **git clone [url]**, Perintah untuk membuat working directory yang diambil dari repositry sever.
+<br>
+• **git remote add origin [url]**, Perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
+<br>
 • **git pull**, Perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
 # Membuat Reposiory Local
-• Buka direktory aktif, misal: C:\Users\Fall\Desktop\gittask1 (buka menggunakan Windows Explorer)<br><br>
-• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command.<br><br>
-• Buat direktory project praktikum pertama dengan nama gittask1.<br><br>
+<br>
+• Buka direktory aktif, misal: C:\Users\Fall\Desktop\gittask1 (buka menggunakan Windows Explorer)<br>
+<br>
+• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command.<br>
+<br>
+• Buat direktory project praktikum pertama dengan nama gittask1.<br>
+<br>
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory) direktory aktif menjadi: **C:\Users\Fall\Desktop\gittask1**
 
 # Membuat Reposiory Local
-• Jalankan perintah git init, untuk membuat repository local.<br>
+<br>• Jalankan perintah git init, untuk membuat repository local.
+<br>
 **$ git init**<br>
 ![Git Version](pictures/gitinit.png)
 <br>
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama **.git** <br>
+<br>
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
 # Menambahkan File baru pada repository
+<br>
 • Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)<br>
 **$ echo “# Latihan 1” >> CUMATEXT.md**<br>
+<br>
 • Disini kita akan coba buat satu file bernama CUMATEXT.md (text file)<br>
+<br>
 • File CUMATEXT.md berhasil dibuat. <br>
 ![Git Version](pictures/gitecho.png)
 
 # Menambahkan File baru pada repository
 • Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah **git add**<br>
-![Git Version](pictures/gittambah.png)
-• File README.md berhasil ditambahkan.
+<br>
+![Git Version](pictures/gittambah.png)<br>
+<br>
+***Maka file README.md berhasil ditambahkan kedalam repository anda!***
