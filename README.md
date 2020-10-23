@@ -53,3 +53,10 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command.<br><br>
 • Buat direktory project praktikum pertama dengan nama gittask1.<br><br>
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory) direktory aktif menjadi: **C:\Users\Fall\Desktop\gittask1**
+
+# Membuat Reposiory Local
+• Jalankan perintah git init, untuk membuat repository local.<br>
+**$ git init**<br>
+![Git Version](pictures/gitinit.png)
+• Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama **.git** <br>
+• Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
