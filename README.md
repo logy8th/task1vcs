@@ -65,6 +65,6 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 # Menambahkan File baru pada repository
 • Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)<br>
 **$ echo “# Latihan 1” >> CUMATEXT.md**
-• Disini kita akan coba buat satu file bernama CUMATEXT.md (text file)
+• Disini kita akan coba buat satu file bernama CUMATEXT.md (text file)<br>
 • File CUMATEXT.md berhasil dibuat. <br>
 ![Git Version](pictures/gitecho.png)
