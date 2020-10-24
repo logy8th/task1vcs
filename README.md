@@ -91,6 +91,6 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 
 # Commit (Menyimpan perubahan ke database)
 • Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”<br>
-**$ git commit -m “update readme”** <br>
-![Git Version](pictures/gittambah.png)<br>
+**$ git commit -m “add note”** <br>
+![Git Version](pictures/gitcommit.png)<br>
 • Perubahan berhasil disimpan.
