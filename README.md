@@ -116,3 +116,20 @@ Sampel dari saya -> : <br>
 • Untuk mengirim perubahan pada local repository ke server gunakan perintah **git push**.<br>
 • Perintah ini akan meminta memasukkan username dan password pada akun **github.com** kalian. <br>
 ![Git Version](pictures/gitpush.png)<br>
+• Jika result seperti gambar diatas maka perubahan sudah dilakukan di server kalian
+
+# Melihat hasilnya pada server repository
+• Buka laman github.com milik anda, kemudian arahkan pada repositori yang anda hubungkan dengan repo lokal anda tadi.<br>
+• Maka perubahan akan terlihat pada laman tersebut.
+
+# Clone Repository
+• Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).<br>
+• Untuk melakukan cloning, gunakan perintah **git clone [url]**<br>
+![Git Version](pictures/gitclone.png)<br>
+• Jika result seperti gambar diatas maka anda berhasil melakukan cloning dari repo server ke repo lokal anda.
+
+# Kegunaan file README.md
+• Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama **README.md**<br>
+• Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
+• Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+• untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: [https://guides.github.com/features/masteringmarkdown/]
