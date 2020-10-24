@@ -109,10 +109,10 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.<br>
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]<br>
 Sampel dari saya -> : <br>
-**$ git remote add origin https://github.com/logy8th/task1vcs**
+**$ git remote add origin https://github.com/logy8th/task1vcs** <br>
 • Setelah sukses anda bisa *clone* / *push* repo anda yang terdapat di Server tersebut.
 
 # Push (Mengirim perubahan ke server)
-• Untuk mengirim perubahan pada local repository ke server gunakan perintah **git push**.
+• Untuk mengirim perubahan pada local repository ke server gunakan perintah **git push**.<br>
 • Perintah ini akan meminta memasukkan username dan password pada akun **github.com** kalian. <br>
 ![Git Version](pictures/gitpush.png)<br>
