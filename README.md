@@ -104,3 +104,15 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 ![Git Version](pictures/gitnewrepoo.png)<br>
 • Setelah selesai klik **Create Repository** <br>
 **Selamat anda telah berhasil membuat Repo Server yang bisa dihubungkan dengan Repo lokal di dekstop kalian!**
+
+# Menambahkan Remote Repository
+• Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.<br>
+• Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]<br>
+Sampel dari saya -> : <br>
+**$ git remote add origin https://github.com/logy8th/task1vcs**
+• Setelah sukses anda bisa *clone* / *push* repo anda yang terdapat di Server tersebut.
+
+# Push (Mengirim perubahan ke server)
+• Untuk mengirim perubahan pada local repository ke server gunakan perintah **git push**.
+• Perintah ini akan meminta memasukkan username dan password pada akun **github.com** kalian. <br>
+![Git Version](pictures/gitpush.png)<br>
