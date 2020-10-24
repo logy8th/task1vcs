@@ -94,3 +94,12 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 **$ git commit -m “add note”** <br>
 ![Git Version](pictures/gitcommit.png)<br>
 • Perubahan berhasil disimpan.
+
+# Membuat Repository Server (Github)
+• Server reopsitory yang akan kita gunakan adalah [click](http://github.com) <br>
+• Anda harus membuat akun terlebih dahulu.<br>
+• Pada laman github, klik tombol start a project, atau Dari menu **(icon +)** klik **New Repository**
+![Git Version](pictures/gitnewrepo.png)<br>
+• Kemudian silahkan anda liat sampel berikut.<br>
+![Git Version](pictures/gitnewrepoo.png)<br>
+**Selamat anda telah berhasil membuat Repo Server yang bisa dihubungkan dengan Repo lokal di dekstop kalian!**
