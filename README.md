@@ -129,6 +129,10 @@ Sampel dari saya -> : <br>
 
 # Kegunaan file README.md
 • Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama **README.md**<br>
+<br>
 • Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.<br>
+<br>
 • Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.<br>
+<br>
 • untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: [https://guides.github.com/features/masteringmarkdown/]
+
