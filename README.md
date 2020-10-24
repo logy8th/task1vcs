@@ -1,9 +1,11 @@
-**Nama      : Naufal Nirwansyah**
-**Kelas     : TI.20.A1**
-**NIM       : 312010174**
+**Nama      : Naufal Nirwansyah**<br>
+**Kelas     : TI.20.A1**<br>
+**NIM       : 312010174**<br>
 **Matkul    : Bahasa Pemrograman**
 <br><br>
+
 # Apa itu VCS
+![Git Version](pictures/gitvsc.png)<br>
 • VCS atau Version Control System merupakan sebuah sistem yang
 merekam perubahan-perubahan dari sebuah berkas atau sekumpulan
 berkas dari waktu ke waktu sehingga Anda dapat melihat kembali
@@ -12,6 +14,7 @@ setiap perubahannya. <br>
 populer saat ini adalah git.<br>
 
 # Apa itu Git?
+![Git Version](pictures/git.png)<br>
 • Git adalah salah satu sistem pengontrol versi (Version Control
 System) pada proyek perangkat lunak yang diciptakan oleh Linus
 Torvalds.
