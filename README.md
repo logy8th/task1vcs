@@ -5,22 +5,22 @@
 <br><br>
 
 # Apa itu VCS
-![Git Version](pictures/gitvsc.png)<br>
-• VCS atau Version Control System merupakan sebuah sistem yang
-merekam perubahan-perubahan dari sebuah berkas atau sekumpulan
-berkas dari waktu ke waktu sehingga Anda dapat melihat kembali setiap perubahannya. <br>
+![Git Version](pictures/gitvcs.png)<br>
+<br>
+• VCS atau Version Control System merupakan sebuah sistem yang merekam perubahan-perubahan dari sebuah berkas atau sekumpulan berkas dari waktu ke waktu sehingga Anda dapat melihat kembali setiap 
+perubahannya. <br>
+<br>
 • Salah satu DVCS (Distributed Version Control System) yang sangat
 populer saat ini adalah git.<br>
 
 # Apa itu Git?
 ![Git Version](pictures/git.png)<br>
-• Git adalah salah satu sistem pengontrol versi (Version Control
-System) pada proyek perangkat lunak yang diciptakan oleh Linus
-Torvalds.
-• Pengontrol versi bertugas mencatat setiap perubahan pada file
-proyek yang dikerjakan oleh banyak orang maupun sendiri.
-• Git dikenal juga dengan distributed revision control (VCS terdistribusi),
-artinya penyimpanan database Git tidak hanya berada dalam satu
+<br>
+• Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh ***Linus Torvald***.<br>
+<br>
+• Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. <br>
+<br>
+• Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu
 tempat saja.
 
 # Instalasi Git
