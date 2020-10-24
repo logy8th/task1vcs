@@ -1,3 +1,8 @@
+**Nama      : Naufal Nirwansyah**
+**Kelas     : TI.20.A1**
+**NIM       : 312010174**
+**Matkul    : Bahasa Pemrograman**
+<br><br>
 # Apa itu VCS
 • VCS atau Version Control System merupakan sebuah sistem yang
 merekam perubahan-perubahan dari sebuah berkas atau sekumpulan
@@ -136,3 +141,4 @@ Sampel dari saya -> : <br>
 <br>
 • untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: [https://guides.github.com/features/masteringmarkdown/]
 
+## Sekian Penjelasan singkat tentang VCS (Virtual Control Systems) kurang lebihnya mohon dimaklumi. Semoga dapat dimengerti, Terimakasih.
