@@ -8,8 +8,7 @@
 ![Git Version](pictures/gitvsc.png)<br>
 • VCS atau Version Control System merupakan sebuah sistem yang
 merekam perubahan-perubahan dari sebuah berkas atau sekumpulan
-berkas dari waktu ke waktu sehingga Anda dapat melihat kembali
-setiap perubahannya. <br>
+berkas dari waktu ke waktu sehingga Anda dapat melihat kembali setiap perubahannya. <br>
 • Salah satu DVCS (Distributed Version Control System) yang sangat
 populer saat ini adalah git.<br>
 
