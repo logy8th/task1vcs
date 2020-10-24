@@ -67,7 +67,6 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 ![Git Version](pictures/gitinit.png)
 <br>
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama **.git** <br>
-<br>
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
 # Menambahkan File baru pada repository
@@ -109,7 +108,7 @@ silahkan buka CMD atau PowerShell, kemudian ketik perintah : <br>
 • Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.<br>
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]<br>
 Sampel dari saya -> : <br>
-**$ git remote add origin https://github.com/logy8th/task1vcs** <br>
+**$ git remote add origin https://github.com/logy8th/task1vcs** (Repository ini)<br>
 • Setelah sukses anda bisa *clone* / *push* repo anda yang terdapat di Server tersebut.
 
 # Push (Mengirim perubahan ke server)
@@ -130,6 +129,6 @@ Sampel dari saya -> : <br>
 
 # Kegunaan file README.md
 • Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama **README.md**<br>
-• Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
-• Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+• Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.<br>
+• Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.<br>
 • untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: [https://guides.github.com/features/masteringmarkdown/]
